@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-list-cell": "/components/list-cell/list-cell"
+  }
+}

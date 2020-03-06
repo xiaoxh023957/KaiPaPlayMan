@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-rate": "/components/rate/rate",
+    "tui-icon": "/components/icon/icon",
+    "tui-divider": "/components/divider/divider"
+  }
+}

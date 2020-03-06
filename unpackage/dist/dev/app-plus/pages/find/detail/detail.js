@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"thumb-container { position: absolute; right: 0; top: 0; bottom: 0; margin: auto; height: 50px; z-index: 1000; }\n",],undefined,{path:"./pages/find/detail/detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/find/detail/detail.wxml') } }));

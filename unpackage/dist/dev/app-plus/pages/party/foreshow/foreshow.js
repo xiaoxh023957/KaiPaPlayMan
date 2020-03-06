@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"tui-default { padding: ",[0,20]," ",[0,30],"; }\n",],undefined,{path:"./pages/party/foreshow/foreshow.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/party/foreshow/foreshow.wxml') } }));

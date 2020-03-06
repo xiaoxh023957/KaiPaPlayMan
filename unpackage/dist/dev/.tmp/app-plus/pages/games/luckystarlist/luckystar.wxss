@@ -1,0 +1,22 @@
+
+.bd {
+	background-color: red !important;
+	color: white;
+	border: 1px solid red !important;
+}
+.star {
+	display: inline;
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%;
+	background-color: #000000;
+}
+.circle {
+	width: 80rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	border-radius: 50%;
+	border: 1px solid black;
+	text-align: center;
+}
+

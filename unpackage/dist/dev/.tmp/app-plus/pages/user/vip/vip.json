@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tui-card": "/components/card/card",
+    "tui-divider": "/components/divider/divider"
+  }
+}

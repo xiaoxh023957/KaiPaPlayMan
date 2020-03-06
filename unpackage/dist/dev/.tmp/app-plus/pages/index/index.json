@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "main": "/pages/main/main",
+    "find": "/pages/find/find",
+    "user": "/pages/user/user"
+  }
+}

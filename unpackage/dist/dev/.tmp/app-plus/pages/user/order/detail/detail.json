@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-icon": "/components/icon/icon",
+    "tui-time-axis": "/components/time-axis/time-axis",
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode"
+  }
+}

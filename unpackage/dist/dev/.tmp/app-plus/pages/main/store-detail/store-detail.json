@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "single-goods": "/pages/main/single-goods/single-goods",
+    "tui-rate": "/components/rate/rate",
+    "tui-tabs": "/components/tui-tabs/tui-tabs",
+    "tui-divider": "/components/divider/divider"
+  }
+}

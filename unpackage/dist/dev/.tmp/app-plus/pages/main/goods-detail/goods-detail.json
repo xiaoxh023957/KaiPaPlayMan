@@ -1,0 +1,13 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-tabs": "/components/tui-tabs/tui-tabs",
+    "tui-divider": "/components/divider/divider",
+    "tui-bottom-popup": "/components/bottom-popup/bottom-popup",
+    "tui-button": "/components/button/button",
+    "tui-tag": "/components/tag/tag",
+    "tui-numberbox": "/components/numberbox/numberbox",
+    "tui-rate": "/components/rate/rate"
+  }
+}

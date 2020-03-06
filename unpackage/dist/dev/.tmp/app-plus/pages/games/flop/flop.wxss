@@ -1,0 +1,88 @@
+
+.kpbg-yellow.data-v-b8f1e08c {
+	background-color: #ffc83c;
+}
+.kpbg-flop.data-v-b8f1e08c {
+	background: url('/static/flopbg.jpg') no-repeat;
+	background-size: 100%;
+}
+.kp-border.data-v-b8f1e08c {
+	border: 2rpx solid red;
+	border-radius: 40rpx;
+}
+.card-module.data-v-b8f1e08c {
+	padding: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	-webkit-transform: translate3d(0, 0, 0);
+	        transform: translate3d(0, 0, 0);
+}
+.card-module .card.data-v-b8f1e08c {
+	width: 200rpx;
+	height: 200rpx;
+	line-height: 200rpx;
+	text-align: center;
+	color: #fff;
+	margin: 11rpx;
+	position: relative;
+	overflow: hidden;
+}
+.card-module .card .card-item.data-v-b8f1e08c {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+	-webkit-transform-style: preserve-3d;
+	        transform-style: preserve-3d;
+	-webkit-backface-visibility: hidden;
+	        backface-visibility: hidden;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.card-module .card image.data-v-b8f1e08c {
+	width: 100%;
+	height: 100%;
+}
+.card-module .card .front.data-v-b8f1e08c {
+	/* background-color: red; */
+	transform: rotateY(0deg);
+	-webkit-transform: rotateY(0deg);
+	z-index: 2;
+}
+.card-module .card .back.data-v-b8f1e08c {
+	/* background-color: #009fff; */
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	z-index: 1;
+}
+.card-module .card.change .front.data-v-b8f1e08c {
+	z-index: 1;
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+}
+.card-module .card.change .back.data-v-b8f1e08c {
+	z-index: 2;
+	transform: rotateY(0deg);
+	-webkit-transform: rotateY(0deg);
+}
+.card-module .card.change .opacity.data-v-b8f1e08c {
+	opacity: 0.5;
+}
+

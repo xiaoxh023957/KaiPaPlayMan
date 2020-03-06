@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-icon": "/components/icon/icon",
+    "tui-divider": "/components/divider/divider",
+    "tui-button": "/components/button/button",
+    "tui-toast": "/components/extend/toast/toast",
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode"
+  }
+}

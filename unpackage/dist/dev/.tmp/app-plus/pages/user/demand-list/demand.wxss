@@ -1,0 +1,15 @@
+
+.cu-form-group .title {
+	min-width: calc(4em + 15px);
+}
+.cu-form-group uni-picker .picker{
+	    line-height: 50px;
+	    font-size: 14px;
+	    -o-text-overflow: ellipsis;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	    overflow: hidden;
+	    width: 100%;
+	    text-align: left !important;
+}
+

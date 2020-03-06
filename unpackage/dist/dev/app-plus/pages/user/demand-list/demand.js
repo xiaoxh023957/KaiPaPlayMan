@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"cu-form-group .",[1],"title { min-width: calc(4em + 15px); }\n.",[1],"cu-form-group wx-uni-picker .",[1],"picker{ line-height: 50px; font-size: 14px; -o-text-overflow: ellipsis; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 100%; text-align: left !important; }\n",],undefined,{path:"./pages/user/demand-list/demand.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/demand-list/demand.wxml') } }));

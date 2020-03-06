@@ -1,0 +1,50 @@
+
+.crd {
+	height: 440rpx;
+	background-color: #3D435D;
+	padding-top:45rpx
+}
+.fillet {
+	height: 300rpx;
+	width: 100%;
+	border-radius: 100% ;
+	background-color: #3D435D;		
+	position: relative;
+	top: -150rpx;
+}
+.wih {
+  height: 480rpx;
+  width: 650rpx;
+  background-color: #FFFFFF;
+  position: relative;
+  top: -405rpx;
+  left: 56rpx;
+}
+.crd-all {
+	position: relative;
+	top: 70rpx;
+	left: 90rpx;
+}
+.crd-hone {		
+	font-size: 50rpx;
+}
+.img-code {
+	background-color: pink;
+  	height: 350rpx;
+}
+.last {	
+	width: 650rpx;
+	position: relative;
+	top: -370rpx;
+	left: 50rpx;
+}
+.container {
+	padding-bottom: 100rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.foot {
+	position: relative;
+	top: -400rpx;
+}
+

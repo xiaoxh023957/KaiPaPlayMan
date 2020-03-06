@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody { background: #ffffff; }\n",],undefined,{path:"./pages/user/demand-list/list.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/demand-list/list.wxml') } }));

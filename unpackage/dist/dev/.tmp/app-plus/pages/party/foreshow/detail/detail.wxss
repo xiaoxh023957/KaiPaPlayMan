@@ -1,0 +1,183 @@
+
+.redioActive {
+	background: orange !important;
+}
+.tui-popup-class {
+	border-top-left-radius: 24rpx;
+	border-top-right-radius: 24rpx;
+	padding-bottom: env(safe-area-inset-bottom);
+}
+.tui-popup-box {
+	position: relative;
+	padding: 30rpx 0 60rpx 0;
+}
+.tui-popup-btn {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.tui-popup-btn .tui-btn-class {
+	width: 90% !important;
+	display: block !important;
+	font-size: 28rpx !important;
+}
+.tui-icon-close {
+	position: absolute;
+	top: 30rpx;
+	right: 30rpx;
+}
+.tui-product-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: end;
+	-webkit-align-items: flex-end;
+	    -ms-flex-align: end;
+	        align-items: flex-end;
+	font-size: 24rpx;
+	padding-bottom: 30rpx;
+}
+.tui-amount {
+	color: #ff201f;
+	font-size: 36rpx;
+}
+.tui-number {
+	font-size: 24rpx;
+	line-height: 24rpx;
+	padding-top: 12rpx;
+	color: #999;
+}
+.tui-popup-scroll {
+	min-height: calc(100vh - 90vh);
+	max-height: calc(100vh - 472rpx);
+	font-size: 26rpx;
+}
+.tui-scrollview-box {
+	padding: 0 30rpx 30rpx 30rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.tui-attr-title {
+	padding: 10rpx 0;
+	color: #333;
+}
+.tui-attr-box {
+	font-size: 0;
+	padding: 20rpx 0;
+}
+.tui-attr-active {
+	background: #fcedea !important;
+	color: #e41f19;
+	font-weight: bold;
+	position: relative;
+}
+.tui-attr-active::after {
+	content: "";
+	position: absolute;
+	border: 1rpx solid #e41f19;
+	width: 100%;
+	height: 100%;
+	border-radius: 40rpx;
+	left: 0;
+	top: 0;
+}
+.tui-number-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 20rpx 0 30rpx 0;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.tui-numberbox {
+	position: relative;
+	z-index: 22;
+}
+.tui-num-input {
+	margin: 0;
+}
+. {
+	position: absolute;
+	left: 73px;
+	padding-right: 150rpx;
+	word-break: break-all;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	display: -webkit-box !important;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	line-height: 1.5;
+}
+.addBtn {
+	position: relative;
+	z-index: 999;
+}
+.valueBox {
+	display: inline-block;
+	width: 40rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	vertical-align: middle;
+	border-radius: 50%;
+	border: 1px solid orange;
+}
+.goods-name {
+	width: 68%;
+	word-break: break-all;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	line-height: 1.5;
+}
+.title {
+	max-height: 76rpx;
+	word-break: break-all;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	/* display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2 !important; */
+	line-height: 1.5;
+}
+.numBox {
+	width: 28%;
+	padding-right: 20rpx;
+	position: relative;
+	top: -50%;
+	-webkit-transform: translateY(50%);
+	    -ms-transform: translateY(50%);
+	        transform: translateY(50%);
+}
+.add,
+.cut {
+	display: inline-block;
+	width: 60rpx;
+	height: 100%;
+	line-height: 1.5;
+	vertical-align: middle;
+}
+.kp-block {
+	display: inline-block;
+}
+
+/* 弹层end */
+.kp-btn{
+	width: 400rpx;
+}
+

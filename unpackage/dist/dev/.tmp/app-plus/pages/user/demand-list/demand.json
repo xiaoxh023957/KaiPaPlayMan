@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

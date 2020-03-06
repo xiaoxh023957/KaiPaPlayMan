@@ -1,0 +1,341 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/register/register",
+			"style": {
+
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/find/detail/detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/user/coupon/coupon",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/store-list/store-list",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/demand-list/demand",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/demand-list/list",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/demand-list/details/details",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/Singin/Singin",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/card-detail/card-detail",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}
+
+		, {
+			"path": "pages/main/article-list/article-list",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/article-list/details/details",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/store-discuss/store-discuss",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}
+
+		, {
+			"path": "pages/find/release/release",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/find/myrel/myrel",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/vip/vip",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/order/order",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/order/detail/detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/store-detail/store-detail",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/card-detail/card-detail",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/goods-detail/goods-detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}
+
+
+		, {
+			"path": "pages/main/group-buy/group-buy",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/combo-list/combo-list",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/order-submit/order-submit",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/pay-success/pay-success",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/mall/mall",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/party/party",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/party/foreshow/foreshow",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/party/foreshow/detail/detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/party/party-details/party-details",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/limit/limit",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/games/luckystarlist/luckystar",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/games/luckystarlist/luckystarlist",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/games/turntable/index/index",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+			}
+		}
+
+		, {
+			"path": "pages/games/flop/flop",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/games/question/question",
+			"style": {
+			}
+		}, {
+			"path": "pages/Singin/Singin",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/refund/refund",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/my-evaluate/my-evaluate",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/order/order-evaluate/order-evaluate",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/my-evaluate/evluate-detail/evluate-detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/user/my-activities/my-activities",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}
+
+		, {
+			"path": "pages/more-store-list/more-store-list",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}
+
+		, {
+			"path": "pages/games/zone-record/zone-record",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/games/zone-record/list/list",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/find/myrel/detail",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/group-buying/group-buying",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/pay/pay",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/about/about",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/main/search/search",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/rank-list/rank-list",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/games/question-home-page/question-home-page",
+			"style": {
+			}
+		}
+        ,{
+            "path" : "pages/games/zone-record/zone-record",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/games/zone-record/list/list",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/find/myrel/detail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/group-buying/group-buying",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/pay/pay",
+            "style" : {}
+        },{
+        "path" : "pages/about/about",
+        "style" : {}
+      },{
+        "path" : "pages/main/search/search",
+        "style" : {}
+      },{
+        "path" : "pages/user/user",
+        "style" : {}
+      },{
+            "path" : "pages/main/search/scanCode",
+            "style" : {}
+        }
+    ],
+
+
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}

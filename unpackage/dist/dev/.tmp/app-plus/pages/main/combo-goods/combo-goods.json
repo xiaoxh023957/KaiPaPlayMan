@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tui-rate": "/components/rate/rate",
+    "tui-divider": "/components/divider/divider"
+  },
+  "component": true
+}

@@ -1,0 +1,16 @@
+
+page {
+	background-color: #FFFFFF;
+}
+page {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+.cu-form-group .title {
+	min-width: calc(4em + 15px);
+}
+.foore {
+	position: absolute;
+	bottom: 0;
+}
+

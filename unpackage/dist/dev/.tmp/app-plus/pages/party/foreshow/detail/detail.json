@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-divider": "/components/divider/divider",
+    "tui-bottom-popup": "/components/bottom-popup/bottom-popup",
+    "tui-button": "/components/button/button"
+  }
+}

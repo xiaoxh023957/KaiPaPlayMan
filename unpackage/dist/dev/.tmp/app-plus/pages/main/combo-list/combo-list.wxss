@@ -1,0 +1,20 @@
+
+.tui-divider-text {
+	background-color: transparent !important;
+}
+.gname {
+	/* height: 88rpx; */
+	overflow: hidden;
+	padding-right: 40rpx;
+	position: relative;
+	word-break: break-all;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	display: -webkit-box !important;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	font-size: 32rpx !important;
+	line-height: 1.5;
+}
+

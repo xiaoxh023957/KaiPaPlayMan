@@ -1,0 +1,60 @@
+
+.kp-goods-name {
+
+	word-break: break-all;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	display: -webkit-box !important;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	line-height: 1.5;
+}
+.qrimg {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.qrimg-i {
+	margin-right: 10px;
+}
+slider {
+	width: 100%;
+}
+input {
+	width: 100%;
+	margin-bottom: 20rpx;
+}
+.btns {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	width: 100%;
+}
+button {
+	width: 100%;
+	margin-top: 10rpx;
+}
+.kp-btn {
+	width: 400rpx;
+}
+.footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	z-index: 99;
+	background: #fff;
+	text-align: center;
+}
+

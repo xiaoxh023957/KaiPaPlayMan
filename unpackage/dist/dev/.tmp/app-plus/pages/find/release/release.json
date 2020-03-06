@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tui-icon": "/components/icon/icon",
+    "tui-button": "/components/button/button"
+  }
+}
